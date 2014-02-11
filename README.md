@@ -1,4 +1,5 @@
 ezjail-web
 ==========
 
-ezjail web front end
+ezjail-webはezjailのWebフロントエンドです。
+ezjail-webはWebブラウザからFreeBSD Jailを管理できるようにすることを目的としています。
